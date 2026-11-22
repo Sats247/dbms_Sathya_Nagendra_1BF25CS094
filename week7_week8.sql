@@ -1,5 +1,5 @@
 CREATE DATABASE supplier_db_1BF25CS094;
-USE supplier_db;
+USE supplier_db_1BF25CS094;
 
 CREATE TABLE suppliers (
   sid INT PRIMARY KEY,
