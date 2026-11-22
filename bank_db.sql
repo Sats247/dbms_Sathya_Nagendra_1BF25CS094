@@ -1,5 +1,4 @@
-DROP DATABASE IF EXISTS bank_enterprise;
-CREATE DATABASE bank_enterprise;
+CREATE DATABASE bank_enterprise_1BF25CS094
 USE bank_enterprise;
 
 CREATE TABLE branch (
