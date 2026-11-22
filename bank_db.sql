@@ -1,5 +1,5 @@
 CREATE DATABASE bank_enterprise_1BF25CS094
-USE bank_enterprise;
+USE bank_enterprise_1BF25CS094;
 
 CREATE TABLE branch (
   branch_name VARCHAR(100),
